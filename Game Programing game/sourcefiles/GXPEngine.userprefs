@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{B5126D4C-7FE0-4552-BC8C-E68D529C22B2}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GXPEngine\Level.cs">
+    <Files>
+      <File FileName="GXPEngine\MyGame.cs" Line="7" Column="33" />
+      <File FileName="GXPEngine\Level.cs" Line="280" Column="1" />
+      <File FileName="GXPEngine\Player.cs" Line="78" Column="13" />
+      <File FileName="GXPEngine\Bullet.cs" Line="30" Column="31" />
+      <File FileName="GXPEngine\PickUp.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\StartScreen.cs" Line="20" Column="36" />
+      <File FileName="GXPEngine\HUD.cs" Line="17" Column="4" />
+      <File FileName="GXPEngine\Enemy.cs" Line="57" Column="4" />
+      <File FileName="GXPEngine\Enemy2.cs" Line="22" Column="24" />
+      <File FileName="GXPEngine\GameOverScreen.cs" Line="1" Column="1" />
+      <File FileName="GXPEngine\VictoryScreen.cs" Line="6" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GXPEngine PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
